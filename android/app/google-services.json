@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "1019597079382",
+    "firebase_url": "https://neon-xox-deluxe-default-rtdb.firebaseio.com",
+    "project_id": "neon-xox-deluxe",
+    "storage_bucket": "neon-xox-deluxe.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1019597079382:android:6dae841f207476c3f50cf7",
+        "android_client_info": {
+          "package_name": "com.yourname.neonxox.neon_xox_deluxe"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBpslApgx9py7sYOk8ButGfAVSiOEqyokQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
